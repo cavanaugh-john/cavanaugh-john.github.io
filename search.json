@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Cavanaugh",
+    "section": "",
+    "text": "I am a master’s student in mathematics."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "John Cavanaugh",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nNonlinear Wave equations\nGeometric flows, specifically the Ricci flow and wave maps"
+  },
+  {
+    "objectID": "index.html#conferences",
+    "href": "index.html#conferences",
+    "title": "John Cavanaugh",
+    "section": "Conferences",
+    "text": "Conferences\n\nSIAM NCC 26 special session talk\nAnalysis of PDEs SLMath Graduate Summer School 2026 attendee"
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "John Cavanaugh",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nCurrently studying the Poincare conjecture"
+  }
+]
