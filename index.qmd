@@ -1,0 +1,18 @@
+---
+title: "John Cavanaugh"
+---
+
+I am a master's student in mathematics.
+
+## Research Interests
+
+- Nonlinear Wave equations
+- Geometric flows, specifically the Ricci flow and wave maps
+
+## Conferences
+
+- SIAM NCC 26 special session talk
+- Analysis of PDEs SLMath Graduate Summer School 2026 attendee
+
+## Current Projects
+- Currently studying the Poincare conjecture
