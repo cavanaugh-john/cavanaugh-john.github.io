@@ -3,7 +3,11 @@ title: "Teaching"
 ---
 
 ## CSU East Bay
+
 ### Spring 2027
+
 - Math 110E: Finite Math for Business (with support)
+
 ### Fall 2026
-- Math 110E: Finite Math for Business (with support)
+
+- [Math 110E: Finite Math for Business (with support)](/csueb110efs2026.qmd)
