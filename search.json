@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Here you will find notes I have written in mathematics courses, or produced outside of standard coursework."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -25,27 +32,20 @@
     "href": "index.html",
     "title": "John Cavanaugh",
     "section": "",
-    "text": "I am a master’s student in mathematics."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "John Cavanaugh",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nNonlinear Wave equations\nGeometric flows, specifically the Ricci flow and wave maps"
+    "text": "I am a master’s student studying mathematics at CSU East Bay. My current research interests are nonlinear wave equations, specifically questions of global existence. I am also interested in geometric evolution equations, such as the Ricci flow and wave maps."
   },
   {
     "objectID": "index.html#conferences",
     "href": "index.html#conferences",
     "title": "John Cavanaugh",
     "section": "Conferences",
-    "text": "Conferences\n\nSIAM NCC 26 special session talk\nAnalysis of PDEs SLMath Graduate Summer School 2026 attendee"
+    "text": "Conferences\n\nSIAM NCC26 special session talk\nAnalysis of PDEs SLMath Graduate Summer School 2026 attendee"
   },
   {
     "objectID": "index.html#current-projects",
     "href": "index.html#current-projects",
     "title": "John Cavanaugh",
     "section": "Current Projects",
-    "text": "Current Projects\nI am currently tackling two papers by Richard Hamilton, Three-manifolds with Positive Ricci Curvature and Four-manifolds with positive curvature operator. I would love to understand Ricci flow more deeply, and I plan to explore other geometric evolution equations such as wave maps."
+    "text": "Current Projects\nI am currently tackling two papers by Richard Hamilton, Three-manifolds with positive ricci curvature and Four-manifolds with positive curvature operator."
   }
 ]
